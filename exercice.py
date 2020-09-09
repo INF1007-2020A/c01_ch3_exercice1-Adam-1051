@@ -10,7 +10,7 @@ def square_root(number: int) -> float:
 
 def square(number: int) -> int:
     # TODO completer la fonction
-    return squared
+    return number squared
     
 
 def main() -> None:
