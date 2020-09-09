@@ -11,7 +11,7 @@ def square_root(number: int) -> float:
 def square(number: int) -> int:
     # TODO completer la fonction
     return squared
-    mat
+    
 
 def main() -> None:
     for i in range(25):
